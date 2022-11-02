@@ -37,7 +37,7 @@ else{
   Scrivi un algoritmo per verificare che, dati due numeri interi, il valore di uno di essi sia 8 oppure se la loro addizione/sottrazione sia uguale a 8.
 */
 
-/*if((a===8) || (b===8) || ((a-b)===8) || ((a+b)===8)){
+/*if((a===8) || (b===8) || ((a-b)===8) || ((b-a))===8 || ((a+b)===8)){
   console.log("Il valore di a o b o la loro addizione/sottrazione è uguale a 8");
 }
 
