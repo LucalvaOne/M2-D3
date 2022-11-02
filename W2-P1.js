@@ -101,7 +101,7 @@ else if(z>x && z>y && y>x){
 */
 
 /*let float=3;
-if(float%1===0){
+if(typeof float===number && float%1===0){
   console.log("Intero");
 }
 else{
